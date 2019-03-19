@@ -1,2 +1,15 @@
 # LIS4930_Visual_Analytics
-Visual Analytics course taken in Spring 2019. 
+Visual Analytics course taken in Spring 2019.
+Not not all modules produce code. The ones that do will be posted here. 
+
+* [Module 1](https://advancedstats1337.wordpress.com/2019/01/07/visualization-review/) Visualizaton Review. [Image can be found here](/images/Purchases_by_month_1.png).
+* [Module 2](https://advancedstats1337.wordpress.com/2019/01/17/basic-visual-elements/) Basic Visual Elements. [Image can be found here](/images/Florida_Public_Libraries_Heatmap.png). [Data can be found here](/data/Florida_Public_Libraries-Florida_Public_Libraries.csv).
+* [Module 3](https://advancedstats1337.wordpress.com/2019/01/25/analytics-techniques-and-practices/) Analytics Techniques and Practices. [Image can be found here](/images/florida_public_libraries_heatmap_population_web.jpg). [Data can be found here](/data/Florida_Public_Libraries-Florida_Public_Libraries.csv). 
+* [Module 4](https://advancedstats1337.wordpress.com/2019/02/01/part-to-whole-and-ranking-analysis/) Part to Whole and Ranking Analysis. [Image can be found here](/images/basic-line.jpeg.png). [Data can be found here](/data/data.csv).
+* [Module 5](https://advancedstats1337.wordpress.com/2019/02/04/visual-analytics-techniques-practices-part-ii/) Visual Analytic Techniques & Practices Part II. [Image can be found here](/images/Dashboard_1.png). [Data can be found here](/data/data.csv).
+* [Module 6](https://advancedstats1337.wordpress.com/2019/02/13/open-source-r-and-r-studio/) Open Source R and R Studio. [First image can be found here](/images/Iris_bar_chart.jpeg).[Second image can be found here](/images/Iris_bar_chart_2.jpeg).[Third images can be found here](/images/Iris_bar_chart_3.jpeg). [Data can be found here](https://archive.ics.uci.edu/ml/machine-learning-databases/iris/). 
+* [Module 7](https://advancedstats1337.wordpress.com/2019/02/17/visual-distribution-analysis/) Visual Distribution Analysis. [Image can be found here](/images/week7.jpeg). [Data can be found here](https://www.kaggle.com/ruiromanini/mtcars).
+* [Module 8](https://advancedstats1337.wordpress.com/2019/02/22/correlation-analysis-and-ggplot2/) Correlation Analysis and ggplot2. [Image can be found here](week8.jpeg). [Data can be found here](https://www.kaggle.com/ruiromanini/mtcars). 
+* [Module 9](https://advancedstats1337.wordpress.com/2019/03/11/visual-multi-variances-analysis/) Visual Multi Variances Analysis. [Image can be found here](week9.jpeg). [Data can be found here](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/esoph.html). 
+* [Module 10](https://advancedstats1337.wordpress.com/2019/03/12/time-series-and-visualization/) Time Series and Visualization. [Image can be found here](/images/week10.jpeg). [Data can be found here](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/nhtemp.html).
+* [Extra Assignment](https://advancedstats1337.wordpress.com/2019/03/18/sub-domain-graph-popularity/) Sub-Domain Graph Popularity. [Image can be found here](subDomainPlot.jpeg).[Original data set can be found here](Extra_Assignment.xlsx). [Revised data can be found here](extraCredit.csv).
